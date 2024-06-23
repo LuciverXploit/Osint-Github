@@ -36,7 +36,7 @@ Untuk memulai penggunaan skrip OSINT GitHub, ikuti langkah-langkah instalasi ber
 
 2. **Unduh dan Jalankan Skrip:**
    ```
-   >> git clone --depth 1 https://github.com/LuciverXploit/OSINT-GitHub.git
+   >> git clone --depth 1 https://github.com/LuciverXploit/Osint-GitHub.git
    >> cd Osint-Github
    >> python github.py
    ```
